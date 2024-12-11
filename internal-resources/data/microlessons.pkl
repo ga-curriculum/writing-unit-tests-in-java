@@ -1,0 +1,73 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+introAndCreatingAUnitTestClass = new Template.Microlesson {
+  friendlyName = "Intro and Creating a Unit Test Class"
+  dirName = "intro-and-creating-a-unit-test-class"
+  type = "Content"
+  videoUrl = ""
+}
+
+requirementOne = new Template.Microlesson {
+  friendlyName = "Requirement One"
+  dirName = "requirement-one"
+  type = "Content"
+  videoUrl = ""
+}
+
+requirementTwo = new Template.Microlesson {
+  friendlyName = "Requirement Two"
+  dirName = "requirement-two"
+  type = "Content"
+  videoUrl = ""
+}
+
+requirementThree = new Template.Microlesson {
+  friendlyName = "Requirement Three"
+  dirName = "requirement-three"
+  type = "Content"
+  videoUrl = ""
+}
+
+requirementFour = new Template.Microlesson {
+  friendlyName = "Requirement Four"
+  dirName = "requirement-four"
+  type = "Content"
+  videoUrl = ""
+}
+
+requirementFive = new Template.Microlesson {
+  friendlyName = "Requirement Five"
+  dirName = "requirement-five"
+  type = "Content"
+  videoUrl = ""
+}
+
+requirementSix = new Template.Microlesson {
+  friendlyName = "Requirement Six"
+  dirName = "requirement-six"
+  type = "Content"
+  videoUrl = ""
+}
+
+requirementSeven = new Template.Microlesson {
+  friendlyName = "Requirement Seven"
+  dirName = "requirement-seven"
+  type = "Content"
+  videoUrl = ""
+}
+
+requirementEight = new Template.Microlesson {
+  friendlyName = "Requirement Eight"
+  dirName = "requirement-eight"
+  type = "Content"
+  videoUrl = ""
+}
