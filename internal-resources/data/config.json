@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Intro and Creating a Unit Test Class",
-          "dirName": "intro-and-creating-a-unit-test-class",
+          "friendlyName": "Introduction to JUnit5",
+          "dirName": "introduction-to-junit5",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -40,8 +40,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Requirement One",
-          "dirName": "requirement-one",
+          "friendlyName": "Creating a JUnit5 Test Class",
+          "dirName": "creating-a-junit5-test-class",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -50,68 +50,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Requirement Two",
-          "dirName": "requirement-two",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Three",
-          "dirName": "requirement-three",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Four",
-          "dirName": "requirement-four",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Five",
-          "dirName": "requirement-five",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Six",
-          "dirName": "requirement-six",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Seven",
-          "dirName": "requirement-seven",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Eight",
-          "dirName": "requirement-eight",
+          "friendlyName": "TDD Demo using JUnit5",
+          "dirName": "tdd-demo-using-junit5",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -159,8 +99,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Intro and Creating a Unit Test Class",
-          "dirName": "intro-and-creating-a-unit-test-class",
+          "friendlyName": "Introduction to JUnit5",
+          "dirName": "introduction-to-junit5",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -169,8 +109,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Requirement One",
-          "dirName": "requirement-one",
+          "friendlyName": "Creating a JUnit5 Test Class",
+          "dirName": "creating-a-junit5-test-class",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -179,68 +119,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Requirement Two",
-          "dirName": "requirement-two",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Three",
-          "dirName": "requirement-three",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Four",
-          "dirName": "requirement-four",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Five",
-          "dirName": "requirement-five",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Six",
-          "dirName": "requirement-six",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Seven",
-          "dirName": "requirement-seven",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Eight",
-          "dirName": "requirement-eight",
+          "friendlyName": "TDD Demo using JUnit5",
+          "dirName": "tdd-demo-using-junit5",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -288,8 +168,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Intro and Creating a Unit Test Class",
-          "dirName": "intro-and-creating-a-unit-test-class",
+          "friendlyName": "Introduction to JUnit5",
+          "dirName": "introduction-to-junit5",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -298,8 +178,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Requirement One",
-          "dirName": "requirement-one",
+          "friendlyName": "Creating a JUnit5 Test Class",
+          "dirName": "creating-a-junit5-test-class",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -308,68 +188,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Requirement Two",
-          "dirName": "requirement-two",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Three",
-          "dirName": "requirement-three",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Four",
-          "dirName": "requirement-four",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Five",
-          "dirName": "requirement-five",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Six",
-          "dirName": "requirement-six",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Seven",
-          "dirName": "requirement-seven",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Requirement Eight",
-          "dirName": "requirement-eight",
+          "friendlyName": "TDD Demo using JUnit5",
+          "dirName": "tdd-demo-using-junit5",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

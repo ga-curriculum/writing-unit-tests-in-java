@@ -21,30 +21,18 @@ courses {
     name = "jcd"
     microlessons {
       mls.setup
-      mls.introAndCreatingAUnitTestClass
-      mls.requirementOne
-      mls.requirementTwo
-      mls.requirementThree
-      mls.requirementFour
-      mls.requirementFive
-      mls.requirementSix
-      mls.requirementSeven
-      mls.requirementEight
+      mls.introductionToJunit5
+      mls.creatingAJunit5TestClass
+      mls.tddDemoUsingJunit5
     }
   }
   new {
     name = "jsc"
     microlessons {
       mls.setup
-      mls.introAndCreatingAUnitTestClass
-      mls.requirementOne
-      mls.requirementTwo
-      mls.requirementThree
-      mls.requirementFour
-      mls.requirementFive
-      mls.requirementSix
-      mls.requirementSeven
-      mls.requirementEight
+      mls.introductionToJunit5
+      mls.creatingAJunit5TestClass
+      mls.tddDemoUsingJunit5
     }
   }
   new {
@@ -52,16 +40,9 @@ courses {
     microlessons {
       // add microlessons here, in the order they should be delivered
       mls.setup
-      mls.introAndCreatingAUnitTestClass
-      mls.requirementOne
-      mls.requirementTwo
-      mls.requirementThree
-      mls.requirementFour
-      mls.requirementFive
-      mls.requirementSix
-      mls.requirementSeven
-      mls.requirementEight
+      mls.introductionToJunit5
+      mls.creatingAJunit5TestClass
+      mls.tddDemoUsingJunit5
     }
   }
 }
-

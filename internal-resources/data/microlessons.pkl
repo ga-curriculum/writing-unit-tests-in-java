@@ -9,65 +9,23 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-introAndCreatingAUnitTestClass = new Template.Microlesson {
-  friendlyName = "Intro and Creating a Unit Test Class"
-  dirName = "intro-and-creating-a-unit-test-class"
+introductionToJunit5 = new Template.Microlesson {
+  friendlyName = "Introduction to JUnit5"
+  dirName = "introduction-to-junit5"
   type = "Content"
   videoUrl = ""
 }
 
-requirementOne = new Template.Microlesson {
-  friendlyName = "Requirement One"
-  dirName = "requirement-one"
+creatingAJunit5TestClass = new Template.Microlesson {
+  friendlyName = "Creating a JUnit5 Test Class"
+  dirName = "creating-a-junit5-test-class"
   type = "Content"
   videoUrl = ""
 }
 
-requirementTwo = new Template.Microlesson {
-  friendlyName = "Requirement Two"
-  dirName = "requirement-two"
-  type = "Content"
-  videoUrl = ""
-}
-
-requirementThree = new Template.Microlesson {
-  friendlyName = "Requirement Three"
-  dirName = "requirement-three"
-  type = "Content"
-  videoUrl = ""
-}
-
-requirementFour = new Template.Microlesson {
-  friendlyName = "Requirement Four"
-  dirName = "requirement-four"
-  type = "Content"
-  videoUrl = ""
-}
-
-requirementFive = new Template.Microlesson {
-  friendlyName = "Requirement Five"
-  dirName = "requirement-five"
-  type = "Content"
-  videoUrl = ""
-}
-
-requirementSix = new Template.Microlesson {
-  friendlyName = "Requirement Six"
-  dirName = "requirement-six"
-  type = "Content"
-  videoUrl = ""
-}
-
-requirementSeven = new Template.Microlesson {
-  friendlyName = "Requirement Seven"
-  dirName = "requirement-seven"
-  type = "Content"
-  videoUrl = ""
-}
-
-requirementEight = new Template.Microlesson {
-  friendlyName = "Requirement Eight"
-  dirName = "requirement-eight"
+tddDemoUsingJunit5 = new Template.Microlesson {
+  friendlyName = "TDD Demo using JUnit5"
+  dirName = "tdd-demo-using-junit5"
   type = "Content"
   videoUrl = ""
 }
